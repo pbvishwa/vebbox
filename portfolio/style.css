@@ -1,0 +1,78 @@
+.profile{
+    background-color: #2f2f58;
+    color: antiquewhite;   
+    padding: 30px;
+    margin: 0px;
+    text-align: center;
+}
+.profile .dp img{
+
+    height: 120px;
+    width: 120px;
+}
+    
+.profile .dp{
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 4px solid white;
+      overflow: hidden;
+      margin: 0 auto 15px auto;
+}
+
+.section-1{
+    border: 2px solid #ccc;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: small;
+    width:800px;
+      background-color: cornsilk;
+       font-size: xx-small;
+}
+.section-2{
+    border: 2px solid #ccc;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: small;
+    width:800px;
+    background-color: cornsilk;
+     font-size: xx-small;
+    
+}
+.section-3{
+     border: 2px solid #ccc;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: small;
+    width:800px;
+      background-color: cornsilk;
+       font-size: xx-small;
+}
+.section-3 .work{
+     border: 2px solid #ccc;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: small;
+    /* width:800px; */
+      background-color: cornsilk;
+       font-size: xx-small;
+}
+.section-4{
+     border: 2px solid #ccc;
+    padding: 30px;
+    margin: 20px auto;
+    font-size: small;
+    width:800px;
+      background-color: cornsilk;
+       font-size: xx-small;
+}
+
+body{
+    background-color: #f4f4f4;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: 100;
+   
+    
+}
