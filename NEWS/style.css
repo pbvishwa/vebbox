@@ -1,0 +1,140 @@
+.page{
+    border: 1px solid black;
+    width: 100%;
+    height:1000px;
+    
+}
+.header{
+    border: 1px solid black;
+    width: 100%;
+    height:150px ;
+    display: inline-block;
+}
+.head-l{
+    border: 1px solid black;
+    height:120px ;
+    width: 10%;
+    display: inline-block;
+    overflow: hidden;
+}
+.head-mid{
+    border: 1px solid black;
+    font-size: larger;
+    margin-bottom: 10px;
+ 
+    height:120px ;
+    width: 75%;
+    display: inline-block;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head-r{
+    border: 1px solid black;
+    height:120px ;
+    width: 10%;
+    display: inline-block;
+}
+.main{
+    border: 1px solid black;
+    width: 100%;
+    height: 1000px;
+    display:block;
+}
+.main-1{
+    display: inline-block;
+    /* border: 1px solid black; */
+    width: 70%;
+}
+.main-b1{
+    border: 1px solid black;
+    width: 95%;
+    height: 100px;
+    display:block;
+    margin-top: 10px;
+}
+.main-ib1{
+    border: 1px solid black;
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+.main-ib2{
+    border: 1px solid black;
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+.main-b2{
+    border: 1px solid black;
+    width: 95%;
+    height: 250px;
+    display:block;
+    background-color: green;
+}
+.main-b3{
+    border: 1px solid black;
+    width: 95%;
+    height: 50px;
+    display:block;
+    margin-top: 10px;
+}
+.main-ib3{
+    border: 1px solid black;
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+.main-ib4{
+    border: 1px solid black;
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+.main-ib5{
+    border: 1px solid black;
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+.main-ib6{
+    
+    width: 47%;
+    height: 100px;
+    display:inline-block;
+}
+
+.main-ib7{
+    border: 1px solid black;
+    width: 100%;
+    height: 30px;
+    display:inline-block;
+}
+.main-2{
+    display: inline-block;
+    /* border: 1px solid black; */
+    width:25%;
+    height: 800px;
+}
+.main2a{
+    display:block;
+    border: 1px solid black;
+    width:100%;
+    height: 100px;
+    margin-top: 8px;
+}
+.main2b{
+    display:block;
+    border: 1px solid black;
+    width:100%;
+    height: 120px;
+    margin-top: 8px;
+}
+.main2c{
+    display:block;
+    border: 1px solid black;
+    width:100%;
+    height: 150px;
+    margin-top: 8px;
+}
+
